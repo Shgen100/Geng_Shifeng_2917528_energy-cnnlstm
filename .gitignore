@@ -1,0 +1,27 @@
+# Python-Caches und Builds
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+*.log
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+env/
+
+# IDE / System
+.idea/
+.vscode/
+.DS_Store
+
+# Trainingsartefakte (falls vorhanden ignorieren; wenn alles archiviert werden soll, diese Zeilen entfernen)
+artifacts/
+checkpoints/
+runs/
+exports/models/
+*.pt
+*.pth
+*.onnx
