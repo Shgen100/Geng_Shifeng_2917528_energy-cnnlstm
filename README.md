@@ -2,8 +2,9 @@
 
 ## Projektüberblick
 
+
 Dieses Repository enthält den Code für ein Projekt zur Prognose des weltweiten Energieverbrauchs mit einem CNN LSTM. Die Pipeline umfasst Datenaufbereitung, zeitliche Cross Validation, Modellvergleich zwischen LSTM und CNN LSTM, finales Training sowie optionale Länderanalysen.
----
+
 ## Datengrundlage
 
 * Quelle: Our World in Data, Zeitreihen 2000 bis 2024
